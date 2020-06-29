@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,gBACF,CAEA,WACE,WAAY,CACZ,wBACF","file":"main.de003df7.chunk.css","sourcesContent":[".tab {\n  margin-right: 5px;\n}\n\n.is-active {\n  border: none;\n  background-color: lightgrey;\n}\n"]}
